@@ -1,0 +1,10 @@
+name: kiboUtils2025
+channels:
+  - defaults
+dependencies:
+  - requests
+  - selenium
+  - boto3
+  - conda-forge::python-dotenv
+  - conda-forge::webdriver-manager
+prefix: /usr/local/Caskroom/miniconda/base/envs/kiboUtils2025
